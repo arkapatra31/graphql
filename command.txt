@@ -1,0 +1,8 @@
+Generating project package
+npm init
+
+installing babelcli
+npm install babel-cli@6.26.0 babel-preset-env@1.7.0
+
+installing nodemon
+npm install nodemon@1.17.5 --save-dev
