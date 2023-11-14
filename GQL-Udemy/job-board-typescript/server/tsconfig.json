@@ -2,6 +2,8 @@
   "extends": "@tsconfig/node18/tsconfig.json",
   "compilerOptions": {
     "rootDir": "src",
+    "module": "ES2022",
+    "moduleResolution": "NodeNext",
     "outDir": "build",
     "strict": false
   },
